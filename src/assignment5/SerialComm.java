@@ -1,4 +1,4 @@
-package studio5;
+package assignment5;
 
 import jssc.*;
 
